@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+int i;
+fprint("enter a no.";)
+fscan("%d"i);
+return 0;
+}
